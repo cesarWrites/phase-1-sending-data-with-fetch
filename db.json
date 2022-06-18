@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,70 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 3
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 4
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 5
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 6
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 7
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 8
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 9
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 10
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 11
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 12
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 13
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 14
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +83,1003 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 1
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 390
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 391
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 392
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 393
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 394
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 395
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 396
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 397
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 398
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 399
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 400
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 401
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 402
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 403
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 404
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 405
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 406
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 407
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 408
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 409
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 410
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 411
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 412
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 413
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 414
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 415
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 416
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 417
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 418
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 419
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 420
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 421
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 422
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 423
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 424
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 425
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 426
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 427
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 428
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 429
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 430
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 431
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 432
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 433
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 434
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 435
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 436
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 437
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 438
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 439
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 440
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 441
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 442
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 443
+    },
+    {
+      "name": "sam",
+      "email": "sam@sam.com",
+      "id": 444
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 445
+    },
+    {
+      "name": "sam",
+      "email": "sam@sam.com",
+      "id": 446
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 447
+    },
+    {
+      "name": "sam",
+      "email": "sam@sam.com",
+      "id": 448
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 449
+    },
+    {
+      "name": "sam",
+      "email": "sam@sam.com",
+      "id": 450
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 451
+    },
+    {
+      "name": "sam",
+      "email": "sam@sam.com",
+      "id": 452
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 453
+    },
+    {
+      "name": "sam",
+      "email": "sam@sam.com",
+      "id": 454
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 455
+    },
+    {
+      "name": "sam",
+      "email": "sam@sam.com",
+      "id": 456
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 457
+    },
+    {
+      "name": "sam",
+      "email": "sam@sam.com",
+      "id": 458
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 459
+    },
+    {
+      "name": "sam",
+      "email": "sam@sam.com",
+      "id": 460
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 461
+    },
+    {
+      "name": "sam",
+      "email": "sam@sam.com",
+      "id": 462
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 463
+    },
+    {
+      "name": "sam",
+      "email": "sam@sam.com",
+      "id": 464
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 465
+    },
+    {
+      "name": "sam",
+      "email": "sam@sam.com",
+      "id": 466
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 467
+    },
+    {
+      "name": "sam",
+      "email": "sam@sam.com",
+      "id": 468
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 469
+    },
+    {
+      "name": "sam",
+      "email": "sam@sam.com",
+      "id": 470
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 471
+    },
+    {
+      "name": "sam",
+      "email": "sam@sam.com",
+      "id": 472
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 473
+    },
+    {
+      "name": "sam",
+      "email": "sam@sam.com",
+      "id": 474
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 475
+    },
+    {
+      "name": "sam",
+      "email": "sam@sam.com",
+      "id": 476
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 477
+    },
+    {
+      "name": "sam",
+      "email": "sam@sam.com",
+      "id": 478
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 479
+    },
+    {
+      "name": "sam",
+      "email": "sam@sam.com",
+      "id": 480
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 481
+    },
+    {
+      "name": "sam",
+      "email": "sam@sam.com",
+      "id": 482
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 483
+    },
+    {
+      "name": "sam",
+      "email": "sam@sam.com",
+      "id": 484
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 485
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 486
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 487
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 488
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 489
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 490
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 491
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 492
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 493
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 494
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 495
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 496
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 497
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 498
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 499
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 500
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 501
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 502
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 503
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 504
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 505
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 506
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 507
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 508
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 509
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 510
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 511
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 512
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 513
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 514
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 515
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 516
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 517
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 518
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 519
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 520
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 521
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 522
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 523
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 524
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 525
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 526
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 527
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 528
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 529
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 530
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 531
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 532
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 533
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 534
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 535
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 536
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 537
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 538
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 539
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 540
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 541
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 542
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 543
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 544
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 545
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 546
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 547
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 548
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 549
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 550
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 551
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 552
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 553
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 554
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 555
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 556
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 557
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 558
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 559
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 560
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 561
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 562
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 563
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 564
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 565
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 566
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 567
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 568
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 569
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 570
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 571
+    },
+    {
+      "name": "sam",
+      "email": "sam@sam.com",
+      "id": 572
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 573
+    },
+    {
+      "name": "sam",
+      "email": "sam@sam.com",
+      "id": 574
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 575
+    },
+    {
+      "name": "sam",
+      "email": "sam@sam.com",
+      "id": 576
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 577
+    },
+    {
+      "name": "sam",
+      "email": "sam@sam.com",
+      "id": 578
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 579
+    },
+    {
+      "name": "sam",
+      "email": "sam@sam.com",
+      "id": 580
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 581
+    },
+    {
+      "name": "sam",
+      "email": "sam@sam.com",
+      "id": 582
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 583
+    },
+    {
+      "name": "sam",
+      "email": "sam@sam.com",
+      "id": 584
+    },
+    {
+      "name": "steve",
+      "email": "steve@steve.com",
+      "id": 585
+    },
+    {
+      "name": "sam",
+      "email": "sam@sam.com",
+      "id": 586
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
