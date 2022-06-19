@@ -36,9 +36,9 @@ function submitData (name, email) {
       });
   }
 document.addEventListener('DOMContentLoaded', function() {
- //submitData("steve", "steve@steve.com");
-submitData("steve", "steve@steve.com");
-submitData("sam", "sam@sam.com");
+//submitData("steve", "steve@steve.com");
+//submitData("sam", "sam@sam.com");
+//submitData("jim", "jim@jim.com");
 });
 
 
